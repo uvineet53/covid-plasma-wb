@@ -1,0 +1,11 @@
+{
+  "name": "covid-plasma-wb-bot",
+  "version": "1.0.0",
+  "description": "Covid Plasma Scraper for Wb",
+  "main": "index.js",
+  "author": "Vineet Upadhyay",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^9.1.1"
+  }
+}
